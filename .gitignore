@@ -1,0 +1,6 @@
+*~
+*.txt
+*.vcproj
+*.user
+/Debug/*
+/Release/*
