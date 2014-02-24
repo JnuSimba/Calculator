@@ -5,4 +5,4 @@ A c++ calculator that can finish not only basic arithmetic operations, but also 
 
 It was compiled with vc++ under windows, when you compile it with g++, some error may happen, please contact me
 
-via QQ: 747118929 or Email: dameng34@163.com
+via Email: dameng34@163.com
